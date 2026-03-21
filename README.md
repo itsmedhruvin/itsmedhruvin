@@ -4,9 +4,9 @@
 <h3 align="center">Mechatronics Engineer Passionate about Robotics and AI</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashraawat&label=Profile%20views&color=0e75b6&style=flat" alt="itsmedhruvin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmedhruvin&label=Profile%20views&color=0e75b6&style=flat" alt="itsmedhruvin" /> </p>
 
 - 🌱 I’m currently learning **Machine learning, Robotics and build AI Agent**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/dhruvinvekariya/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="itsmedhruvin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dhruvinvekariya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsmedhruvin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
