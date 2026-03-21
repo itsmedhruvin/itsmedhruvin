@@ -1,4 +1,3 @@
-# Readme-itsmedhruvin
 
 <h1 align="center">Hi 👋, I'm Dhruvin Vekariya</h1>
 <h3 align="center">Mechatronics Engineer Passionate about Robotics and AI</h3>
