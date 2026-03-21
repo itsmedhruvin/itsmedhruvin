@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmedhruvin&label=Profile%20views&color=0e75b6&style=flat" alt="itsmedhruvin" /> </p>
 
-- 🌱 I’m currently learning **Machine learning, Robotics and build AI Agent**
+- 🌱 I’m currently learning **Machine learning, Robotics and building AI Agent**
 
 - 👯 I’m looking to collaborate on **Robotics Projects with AI**
 
