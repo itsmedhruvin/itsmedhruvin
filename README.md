@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Dhruvin Vekariya</h1>
-<h3 align="center">Mechatronics Engineer Passionate about Robotics and AI</h3>
+<h3 align="center">Embedded Software Engineer Passionate about Robotics and AI</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
